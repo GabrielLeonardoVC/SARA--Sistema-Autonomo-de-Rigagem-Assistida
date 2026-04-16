@@ -1,5 +1,3 @@
----
-
 ## 1. Contexto e Problema
 
 Operações de içamento em portos, centros de distribuição e indústrias pesadas exigem que trabalhadores se posicionem manualmente para conectar eslingas (cabos ou correias de sustentação) ao gancho do guindaste e aos pontos de ancoragem da carga. Essa atividade envolve cargas de até 25 toneladas — contêineres, big bags e peças industriais — e coloca o operador dentro de uma **zona de risco** com potencial de:
