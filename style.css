@@ -91,8 +91,14 @@ h5 {
 .hero-hl {
     font-size: clamp(2.8rem, 6.5vw, 5.2rem);
     font-weight: 800;
-    letter-spacing: -.04em;
     line-height: 1
+}
+
+.hero-h1 {
+    font-size: clamp(2.2rem, 5vw, 4rem);
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 1.2;
 }
 
 .sec-hl {
@@ -1323,9 +1329,7 @@ footer {
 }
 
 .ft-brand-name {
-    font-family: var(--f-display);
-    font-size: .95rem;
-    font-weight: 700;
+    width: 100px;
     display: flex;
     align-items: center;
     gap: .5rem;
@@ -1424,6 +1428,7 @@ footer {
 }
 
 .team-card img {
+    margin: 0 auto;
     width: 100px;
     height: 100px;
     object-fit: cover;
@@ -1448,6 +1453,15 @@ footer {
     font-size: 13px;
     color: #cbd5f5;
 }
+
+.link-footer {
+    color: white;
+}
+
+.link-footer:hover {
+    color: #006eff;
+}
+
 
 /* === RESPONSIVE === */
 @media(max-width:1024px) {
